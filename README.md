@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 👩‍💻 Développeuse passionnée par le code et l'esthétique !
 
@@ -27,4 +27,4 @@ in/nhora-mbemba-b878b2207/
 #DéveloppeuseEnHerbe #CodeEtDesign #ApprentissageContinu
 
 #CodeEtDesign #DéveloppementWeb #PassionnéeDeDesign
--->
+
